@@ -1,0 +1,4 @@
+/*header style*/
+header { background-color:skyblue;display: flex;}
+header #menu {flex:1}
+#menu{text-align: right;}
